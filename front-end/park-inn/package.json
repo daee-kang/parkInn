@@ -23,7 +23,7 @@
         "react-modal": "^3.11.2",
         "react-notifications": "^1.6.0",
         "react-router-dom": "^5.1.2",
-        "react-scripts": "3.3.1",
+        "react-scripts": "5.0.1",
         "react-scroll-up-button": "^1.6.4"
     },
     "scripts": {
